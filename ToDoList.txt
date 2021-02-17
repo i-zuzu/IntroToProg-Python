@@ -1,0 +1,4 @@
+Call Mom, High
+Cook, Medium
+Walk, Low
+Swim, Medium
